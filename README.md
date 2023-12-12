@@ -1,9 +1,5 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-
-
 This is a windows form application with C# for a Mega Desk.Inc responsible for provide qoutes to the customers and also for cash payments.
 
 {
